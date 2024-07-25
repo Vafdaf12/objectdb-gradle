@@ -1,5 +1,5 @@
 # ObjectDB+Gradle Template
-This is a starter project for working with ObjectDB and Gradle.
+This is a starter project for working with ObjectDB and Gradle. The code is mainly adapted from the [ObjectDB Maven Example](https://www.objectdb.com/tutorial/jpa/start/maven) to work with Gradle, with some slight improvements.
 
 ## Running
 To run the application, run
