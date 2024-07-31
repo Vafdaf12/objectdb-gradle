@@ -25,7 +25,8 @@ To set up an ObjectDB server, refer to https://github.com/S3BzA/COS326-Dockerise
 ## Running
 To run the application, run
 ```sh
-gradlew run      # Windows
+.\gradlew run    # Windows (Powershell)
+gradlew run      # Windows (Command Prompt)
 ./gradlew run    # Linux/Mac
 ```
 
