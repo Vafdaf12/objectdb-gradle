@@ -4,6 +4,7 @@ import javax.persistence.Persistence;
 
 public class App {
     public static void main(String[] args) {
+        // Creates a DB file at db/points.odb
         var emf = Persistence.createEntityManagerFactory("objectdb:db/points.odb");
         var em = emf.createEntityManager();
 
